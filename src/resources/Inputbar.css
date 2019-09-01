@@ -1,0 +1,26 @@
+.inputField {
+    width : 400px;
+}
+
+.inputBar {
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.inputItems {
+    display:  flex;
+    justify-content: space-between;
+}
+
+.errorMsg {
+    color : red;
+}
+
+.repeatNumContainer {
+    display: flex;
+    width: 100%;
+    overflow: scroll;
+    height: 200px;
+}
